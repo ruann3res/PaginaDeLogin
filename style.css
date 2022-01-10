@@ -1,0 +1,92 @@
+* {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e5e5e5;
+}
+a{
+  text-decoration: none;
+}
+
+.img-Yoga {
+  display: block;
+  margin: 195px auto 122px auto;
+}
+.input-Login {
+  display: block;
+  width: 321px;
+  height: 46px;
+  background: #f7f7f7;
+  margin: 21px auto 30px auto;
+  border-radius: 10px;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border: none;
+}
+.input-Login::placeholder {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  color: #969696;
+  padding-top: 15px;
+  padding-left: 19px;
+  /* 19px 
+  14px
+  auto; */
+}
+.LinkForgotPass {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  color: #000000;
+  margin: 35px 30px 38px 0;
+  display: block;
+  text-align: right;
+}
+button {
+display: block;
+margin: 0 auto;
+  background: #323232;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  width: 133px;
+  height: 46px;
+  border: none  ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+}
+.NewAccount{
+    display: block;
+    margin-top: 21px;
+    margin-bottom: 62px;
+    text-align: center;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+}
+strong{
+    color: #323232;
+}
+.orParagraph{
+    font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+}
+.SocialMedia{
+    text-align: center;
+    margin: 18px 0 18px 0;
+    
+}
+.LinkSocialMedia{
+  margin:0 18px;
+}
